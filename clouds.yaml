@@ -1,0 +1,10 @@
+clouds:
+  openstack:
+    region_name: RegionOne
+    auth:
+      username: 'admin'
+      password: uugah8oyaeNg4lo1
+      project_name: 'admin'
+      auth_url: 'http://192.168.0.62:5000/v3'
+      project_domain_name: admin_domain
+      user_domain_name: admin_domain
